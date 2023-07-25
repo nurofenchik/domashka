@@ -29,3 +29,9 @@ h1 {
     padding-right : 20px;
     padding-top : 20px;
 }
+.parag4 {
+    font-style: oblique;
+    text-align: center;
+    font-size: 24pt;
+    box-shadow: 5px 5px  rgb(0, 250, 0);
+}
